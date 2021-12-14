@@ -6,3 +6,9 @@
 
 - git remote add origin xxx
 
+## 创建公钥
+
+```console
+ssh-keygen -o
+```
+
