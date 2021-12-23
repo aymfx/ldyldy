@@ -15,21 +15,14 @@
 - [栈](/算法/笔记/栈)
 - [递归](/算法/笔记/递归)
 - [排序](/算法/笔记/排序)
+- [排序](/算法/笔记/排序2)
 
 ## 题目
 
-- [两数之和](/算法/leetcode/1-两数之和) 
-- [两数相加](/算法/leetcode/2-两数相加) 
-
+- [两数之和](/算法/leetcode/1-两数之和)
+- [两数相加](/算法/leetcode/2-两数相加)
 - [无重复字符的最长子串](/算法/leetcode/3-无重复字符的最长子串)
-
-
 
 ## 一些学习的地址
 
 - 动画图解：https://github.com/MisterBooo/LeetCodeAnimation/blob/master/0001-Two-Sum/Article/0001-Two-Sum.md
-
-
-
-
-
